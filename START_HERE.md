@@ -1,5 +1,18 @@
 # Start Here
 
+## 0. Get Warp (if you don't have it)
+
+Download from [warp.dev](https://www.warp.dev/) — it's a modern terminal with AI built in.
+
+Why Warp:
+- Way friendlier than the default Mac terminal
+- Has AI to help if you get stuck on commands
+- Free tier is enough to get started
+
+Make a free account. Use Warp for everything below.
+
+---
+
 ## 1. Install Claude Code
 
 ```bash
