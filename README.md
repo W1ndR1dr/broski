@@ -53,7 +53,11 @@ No resort databases. No hand-crafted rules per mountain. Trust the AI to search,
 
 Why? Because general systems that leverage computation always beat hand-crafted domain-specific approaches. As AI gets better, our general system gets better for free. That's the wave we're riding.
 
-See `/journal/001-the-bitter-lesson-applied.md` for the full philosophy.
+See the `/journal` for our foundational principles:
+- `001-the-bitter-lesson-applied.md` — Why we build general systems, not hard-coded solutions
+- `002-the-ideation-inversion.md` — Why planning is the new bottleneck (and how to collaborate well)
+- `003-the-craft-spectrum.md` — The difference between shitty vibe coding and building with care
+- `004-ai-native-vs-ai-enhanced.md` — Why we're building something that couldn't exist pre-AI
 
 ---
 
