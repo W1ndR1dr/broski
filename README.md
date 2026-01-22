@@ -43,6 +43,20 @@ The goal is to look back in 6 months and see both a useful app AND a record of l
 
 ---
 
+## The Bitter Lesson, Applied
+
+One core principle guides our architecture: **bake in as little hard-coded information as possible.**
+
+We're not building "a guide for Alta" or "a guide for Jackson Hole." We're building a *general system* that can become a local guide for ANY mountain by dynamically discovering and synthesizing whatever knowledge exists out there.
+
+No resort databases. No hand-crafted rules per mountain. Trust the AI to search, scrape, reason, and figure it out at runtime.
+
+Why? Because general systems that leverage computation always beat hand-crafted domain-specific approaches. As AI gets better, our general system gets better for free. That's the wave we're riding.
+
+See `/journal/001-the-bitter-lesson-applied.md` for the full philosophy.
+
+---
+
 ## Repo Structure
 
 ```

@@ -6,18 +6,18 @@ Dump ideas here. No idea too rough. We'll refine the good ones.
 
 ## Core Features (v1 vision)
 
-- [ ] "Local guide" persona that knows a specific mountain
-- [ ] Current conditions awareness (weather, snow, wind)
+- [ ] "Local guide" persona that dynamically learns ANY mountain (no hard-coded resort info)
+- [ ] Current conditions awareness (weather, snow, wind)—discovered at runtime
 - [ ] Time-of-day advice ("hit X before it tracks out")
 - [ ] Photo analysis from chairlift ("what am I looking at?")
-- [ ] Local knowledge ingestion (forums, Reddit, blogs)
+- [ ] Dynamic local knowledge synthesis (searches forums, Reddit, blogs live—not a stored database)
 
 ## Open Questions
 
-- What mountain do we start with? Alta (the obvious choice)? Somewhere else?
-- How do we get "local knowledge" into the system? Web scraping? Manual curation?
+- How does the system dynamically discover local knowledge for any mountain? (Web search, forums, Reddit, blogs—at runtime, not stored)
 - Mobile app? Web app? Just a chat interface to start?
 - How do we handle real-time conditions? APIs? Scraping?
+- What's the minimum context the user provides? (Just "I'm at Alta" and it figures out the rest?)
 
 ## Wild Ideas (Maybe Someday)
 
