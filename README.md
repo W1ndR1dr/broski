@@ -58,6 +58,7 @@ See the `/journal` for our foundational principles:
 - `002-the-ideation-inversion.md` — Why planning is the new bottleneck (and how to collaborate well)
 - `003-the-craft-spectrum.md` — The difference between shitty vibe coding and building with care
 - `004-ai-native-vs-ai-enhanced.md` — Why we're building something that couldn't exist pre-AI
+- `005-the-trojan-horse.md` — The real goal: learning transfer through building together
 
 ---
 
@@ -74,10 +75,12 @@ README.md     # You're here
 ## Getting Started
 
 1. Clone this repo
-2. Open it in Claude Code (`claude` in terminal, or via your IDE)
-3. Read through `/journal` to see where we're at
-4. Pick something to work on, or add ideas to the backlog
-5. **Document what you learn** as you go
+2. Open terminal in the folder, run `claude` to start Claude Code
+3. Read the `/journal` entries to understand our principles
+4. Read `COLLAB.md` to understand how we work together
+5. Add ideas, build things, document what you learn
+
+Pro tip: Tell Claude "Read the journal entries to understand our principles" and it'll get the vibe.
 
 ---
 
