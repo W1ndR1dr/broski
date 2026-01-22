@@ -1,7 +1,7 @@
 # The Bitter Lesson, Applied
 
 **Date:** January 2025
-**Author:** Brian
+**Author:** B
 
 ## The Insight
 

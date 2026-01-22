@@ -1,7 +1,7 @@
 # The Trojan Horse: Learning Transfer as the Actual Goal
 
 **Date:** January 2025
-**Author:** Brian
+**Author:** B
 
 ## The Setup
 

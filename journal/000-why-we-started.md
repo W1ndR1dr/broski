@@ -1,7 +1,7 @@
 # Why We Started This
 
 **Date:** January 2025
-**Author:** Brian
+**Author:** B
 
 ## The Idea
 

@@ -1,7 +1,7 @@
 # The Ideation Inversion
 
 **Date:** January 2025
-**Author:** Brian + Claude (demonstrating the point)
+**Author:** B + Claude (demonstrating the point)
 
 ## The Shift
 

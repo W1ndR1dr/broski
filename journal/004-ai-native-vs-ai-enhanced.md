@@ -1,7 +1,7 @@
 # AI-Native vs. AI-Enhanced
 
 **Date:** January 2025
-**Author:** Brian + Claude
+**Author:** B + Claude
 
 ## The Moment This Clicked
 
